@@ -1,0 +1,104 @@
+What comes next in the sequence: 3, 6, 12, 24, …?
+a 36
+b 48
+c 30
+d 50
+ANSWER:b  
+
+Spot the odd one out: 16, 25, 36, 45, 64
+a 16
+b 25
+c 45
+d 64
+ANSWER:c 
+
+If RABBIT is coded as 18122920, how will FOX be coded?
+a 61524
+b 6424
+c 62415
+d 61525
+ANSWER:a
+
+What comes next in the pattern: Z, X, V, T, …?
+a S
+b R
+c Q
+d P
+ANSWER:b 
+
+In a line of children, a child is 5th from either end of the line. How many children are there in the line?
+a 9
+b 10
+c 11
+d 12
+ANSWER:a
+
+If BOOK is coded as KOOB, how is SHIP coded?
+a IHSP
+b PISH
+c HPSI
+d PIHS
+ANSWER:d 
+
+If 2 * 5 = 52, 3 * 6 = 63, 4 * 7 = 74, what is 5 * 8?
+a 85
+b 58
+c 158
+d 54
+ANSWER:a
+
+A clock shows 4:20. What is the angle between the hour and the minute hands?
+a 10°
+b 20°
+c 30°
+d 40°
+ANSWER:a
+
+Which number should replace the question mark in the following series: 1, 4, 9, 16, ?, 36
+a 20
+b 25
+c 24
+d 30
+ANSWER:b
+
+If ‘WORD’ is coded as 5694, what will be the code for ‘LINE’?
+a 3955
+b 2975
+c 3112
+d 2711
+ANSWER:a
+
+If 3 * 4 = 34, 5 * 6 = 56, what is 7 * 8?
+a 56
+b 78
+c 87
+d 76
+ANSWER:b
+
+Find the odd one out: triangle, rectangle, circle, square
+a triangle
+b rectangle
+c circle
+d square
+ANSWER:c
+
+In a code language, CHAIR is written as 381918. How is TABLE written in that language?
+a 2012125
+b 2012195
+c 2202125
+d 2052125
+ANSWER:a
+
+Which comes next in the series: O, T, T, F, F, S, S, …?
+a E
+b S
+c N
+d T
+ANSWER:a
+
+How many triangles are there in a diagram made up of a square with both diagonals drawn?
+a 4
+b 6
+c 8
+d 10
+ANSWER:c
